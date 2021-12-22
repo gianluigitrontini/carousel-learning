@@ -27,6 +27,7 @@ The style of the buttons, the fonts choice, the colors and the shadows, were all
 
 ## Landing Page
 *Including tall, full-page screenshots is not a good idea*
+
 You can take a look [here](https://www.carousel-learning.com/) for the landing page and [here](https://www.carousel-learning.com/upgrade/) for the upgrade page.
 
 ## Teacher Dashboard
