@@ -1,5 +1,4 @@
 # Carousel Learning
----
 
 Carousel has been the biggest projects I've worked on while working with [Aircury](https://www.aircury.com/). This project was originally a spreadsheet pilot called the Retrieval Roulette developed by [Adam Boxer](https://twitter.com/adamboxer1).
 
