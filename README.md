@@ -29,7 +29,7 @@ The style of the buttons, the fonts choice, the colors and the shadows, were all
 *Probably the table below won't render nicely on a narrow device*
 | Landing Page | Upgrade Page |
 |---           | ---          |
-| <img src="https://github.com/gianluigitrontini/carousel-learning/blob/main/images/landing-page.png?raw=true"/> | <img src="https://github.com/gianluigitrontini/carousel-learning/blob/main/images/upgrade-page.png?raw=true"/> |
+| <img src="https://github.com/gianluigitrontini/carousel-learning/blob/main/images/landing-page.png?raw=true" valign='top'/> | <img src="https://github.com/gianluigitrontini/carousel-learning/blob/main/images/upgrade-page.png?raw=true" valign='top'/> |
 
 ## Teacher Dashboard
 
