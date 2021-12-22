@@ -26,10 +26,8 @@ The style of the buttons, the fonts choice, the colors and the shadows, were all
 | <img src="https://github.com/gianluigitrontini/carousel-learning/blob/main/images/modern-tables.JPG?raw=true"  valign='middle'/> | <img src="https://github.com/gianluigitrontini/carousel-learning/blob/main/images/real-cards.JPG?raw=true" valign='middle'/> | <img src="https://github.com/gianluigitrontini/carousel-learning/blob/main/images/rounded-buttons.JPG?raw=true" valign='middle'/> |
 
 ## Landing Page
-*Probably the table below won't render nicely on a narrow device*
-| Landing Page | Upgrade Page |
-|---           | ---          |
-| <img src="https://github.com/gianluigitrontini/carousel-learning/blob/main/images/landing-page.png?raw=true" valign='top'/> | <p height='100%'><img src="https://github.com/gianluigitrontini/carousel-learning/blob/main/images/upgrade-page.png?raw=true" valign='top'/> </p> |
+*Including tall, full-page screenshots is not a good idea*
+You can take a look [here](https://www.carousel-learning.com/) for the landing page and [here](https://www.carousel-learning.com/upgrade/) for the upgrade page.
 
 ## Teacher Dashboard
 
