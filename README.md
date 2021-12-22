@@ -18,8 +18,9 @@ The project was divided in 3 main sectors that had to be independently designed:
 
 After an initial draft of the Landing Page, we already started identifying the core visual identity for the whole application.
 The style of the buttons, the fonts choice, the colors and the shadows, were all contributing to the final version of the design system.
-<p float='left' align='middle'  >
-<img src="https://github.com/gianluigitrontini/carousel-learning/blob/main/images/modern-tables.JPG?raw=true" width='32%' valign='middle'/>
-<img src="https://github.com/gianluigitrontini/carousel-learning/blob/main/images/real-cards.JPG?raw=true" width='32%' valign='middle'/>
-<img src="https://github.com/gianluigitrontini/carousel-learning/blob/main/images/rounded-buttons.JPG?raw=true" width='32%' valign='middle'/>
-</p>
+
+| Modern Tables | Real Looking Card | Rounded Corners |
+|:---:        |     :---:      |          :---: |
+| <img src="https://github.com/gianluigitrontini/carousel-learning/blob/main/images/modern-tables.JPG?raw=true" width='32%' valign='middle'/>   | <img src="https://github.com/gianluigitrontini/carousel-learning/blob/main/images/real-cards.JPG?raw=true" width='32%' valign='middle'/>    | 
+<img src="https://github.com/gianluigitrontini/carousel-learning/blob/main/images/rounded-buttons.JPG?raw=true" width='32%' valign='middle'/>    |
+
