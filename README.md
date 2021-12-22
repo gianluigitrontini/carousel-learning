@@ -20,7 +20,6 @@ After an initial draft of the Landing Page, we already started identifying the c
 The style of the buttons, the fonts choice, the colors and the shadows, were all contributing to the final version of the design system.
 
 | Modern Tables | Real Looking Card | Rounded Corners |
-|:---:        |     :---:      |          :---: |
-| <img src="https://github.com/gianluigitrontini/carousel-learning/blob/main/images/modern-tables.JPG?raw=true" width='32%' valign='middle'/>   | <img src="https://github.com/gianluigitrontini/carousel-learning/blob/main/images/real-cards.JPG?raw=true" width='32%' valign='middle'/>    | 
-<img src="https://github.com/gianluigitrontini/carousel-learning/blob/main/images/rounded-buttons.JPG?raw=true" width='32%' valign='middle'/>    |
+|---            | ---               | ---             |
+| <img src="https://github.com/gianluigitrontini/carousel-learning/blob/main/images/modern-tables.JPG?raw=true"  valign='middle'/> | <img src="https://github.com/gianluigitrontini/carousel-learning/blob/main/images/real-cards.JPG?raw=true" valign='middle'/> | <img src="https://github.com/gianluigitrontini/carousel-learning/blob/main/images/rounded-buttons.JPG?raw=true" valign='middle'/> |
 
