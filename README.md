@@ -1,4 +1,4 @@
-<img src="https://www.carousel-learning.com/logo.svg" style="width: 150px"/>
+![Carousel Logo](https://www.carousel-learning.com/logo.svg)
 
 # Carousel Learning
 
